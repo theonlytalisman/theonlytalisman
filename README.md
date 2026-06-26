@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Haadi+Ali;Cybersecurity+undergrad+%40+Air+University;Pentester+with+a+soft+spot+for+RE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Haadi+Ali;Cybersecurity+undergrad+%40+Air+University;" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
