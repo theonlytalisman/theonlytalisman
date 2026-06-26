@@ -52,18 +52,6 @@ I enjoy building secure applications, exploring cybersecurity, automating tasks 
 
 ---
 
-## 🎯 Current Mission
-
-```python
-while True:
-    learn()
-    build()
-    secure()
-    repeat()
-```
-
----
-
 ## 🚀 What I'm Working On
 
 * 🔒 Cybersecurity Projects
@@ -94,20 +82,6 @@ https://www.linkedin.com/in/s-hadiali
 
 🐙 GitHub:
 https://github.com/theonlytalisman
-
----
-
-## 💀 Fun Fact
-
-```bash
-$ whoami
-
-Cybersecurity enthusiast
-Python developer
-React builder
-C/C++ programmer
-Coffee-powered human
-```
 
 ---
 
