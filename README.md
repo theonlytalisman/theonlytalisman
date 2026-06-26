@@ -1,11 +1,9 @@
-# 👋 Hey, I'm Haadi (aka TheOnlyTalisman)
+# 👋 Hey, I'm Haadi
 
 ```bash
-> Initializing profile...
-> Cybersecurity enthusiast detected.
-> Full-stack developer loaded.
-> Coffee level: 100%
-> Ready to build cool stuff.
+> the
+>only
+>talisman
 ```
 
 ## 🚀 About Me
