@@ -83,6 +83,7 @@ https://github.com/theonlytalisman
 > "Hack the problem, not the system."
 
 ⭐ If you like my projects, consider starring a repository and following my journey!
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=theonlytalisman.theonlytalisman&left_color=crimson&right_color=cornflowerblue&left_text=Visitors"  />
-</div>
+
+<br>
+
+<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=theonlytalisman.theonlytalisman&left_color=crimson&right_color=cornflowerblue&left_text=Visitors" /> </div>
