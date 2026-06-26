@@ -1,60 +1,118 @@
-<h1 data-importer="text" align="center">Hi, I'm Haadi.</h1>
+# 👋 Hey, I'm Haadi (aka TheOnlyTalisman)
 
-###
+```bash
+> Initializing profile...
+> Cybersecurity enthusiast detected.
+> Full-stack developer loaded.
+> Coffee level: 100%
+> Ready to build cool stuff.
+```
 
-<h3 data-importer="text" align="left">About:</h3>
+## 🚀 About Me
 
-###
+🔐 Cybersecurity Enthusiast
+🌐 Full-Stack Web Developer
+🐍 Python Developer
+⚛️ React Developer
+⚙️ C/C++ Programmer
 
-<p data-importer="text" align="center">Cyber Security - Web & Software - Dissecting code bases.</p>
+I enjoy building secure applications, exploring cybersecurity, automating tasks with Python, and developing modern web applications. Whether it's writing code, finding vulnerabilities, or learning a new technology, I'm always working on something exciting.
 
-###
+---
 
-<h3 data-importer="text" align="left">🛠</h3>
+## 🛠️ Tech Arsenal
 
-###
+### 💻 Languages
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-###
+### 🌐 Frontend Development
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/theonlytalisman/theonlytalisman/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/theonlytalisman/theonlytalisman/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-###
+### ⚡ Backend Development
 
-<h3 data-importer="text" align="left">Socials</h3>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
-###
+### 🔐 Cybersecurity
 
-<p data-importer="text" align="left">X: https://x.com/theonlytalisman<br>LinkedIn: www.linkedin.com/in/s-hadiali<br>Email: theonlytalisman@icloud.com</p>
+```text
+✔ Network Security
+✔ Web Security
+✔ Vulnerability Assessment
+✔ Threat Analysis
+✔ Secure Coding
+✔ Penetration Testing
+✔ OWASP Top 10
+✔ Security Research
+```
 
-###
+---
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=theonlytalisman.theonlytalisman&left_color=crimson&right_color=cornflowerblue&left_text=Visitors"  />
-</div>
+## 🎯 Current Mission
 
-###
+```python
+while True:
+    learn()
+    build()
+    secure()
+    repeat()
+```
+
+---
+
+## 🚀 What I'm Working On
+
+* 🔒 Cybersecurity Projects
+* 🌐 Full-Stack Web Applications
+* 🐍 Python Automation
+* ⚛️ React Applications
+* 🛡️ Secure Software Development
+* 🧠 Learning New Security Techniques
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theonlytalisman\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theonlytalisman\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=theonlytalisman\&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: [theonlytalisman@icloud.com](mailto:theonlytalisman@icloud.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/s-hadiali
+
+🐙 GitHub:
+https://github.com/theonlytalisman
+
+---
+
+## 💀 Fun Fact
+
+```bash
+$ whoami
+
+Cybersecurity enthusiast
+Python developer
+React builder
+C/C++ programmer
+Coffee-powered human
+```
+
+---
+
+> "Hack the problem, not the system."
+
+⭐ If you like my projects, consider starring a repository and following my journey!
