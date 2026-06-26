@@ -1,24 +1,19 @@
 # 👋 Hey, I'm Haadi
 
 ```bash
-> the
-> only
-> talisman
+> The
+> Only
+> Talisman
 ```
 
 ## 🚀 About Me
 
-🔐 Cybersecurity Enthusiast
-🌐 Full-Stack Web Developer
-🐍 Python Developer
-⚛️ React Developer
-⚙️ C/C++ Programmer
-
-I enjoy building secure applications, exploring cybersecurity, automating tasks with Python, and developing modern web applications. Whether it's writing code, finding vulnerabilities, or learning a new technology, I'm always working on something exciting.
+🔐 Cybersecurity 
+⚙️ Dissecting Codes
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ 
 
 ### 💻 Languages
 
