@@ -71,8 +71,6 @@
 💼 LinkedIn:
 https://www.linkedin.com/in/s-hadiali
 
-🐙 GitHub:
-https://github.com/theonlytalisman
 
 ---
 
