@@ -2,8 +2,8 @@
 
 ```bash
 > the
->only
->talisman
+> only
+> talisman
 ```
 
 ## 🚀 About Me
